@@ -11,4 +11,4 @@ A personal project to help users diagnose and treat plant diseases. Features inc
 pip install requirements.txt from your terminal to install all the packages needed.
 
 ## Credits:
-This project uses data from the following Kaggle datasets: https://www.kaggle.com/datasets/emmarex/plantdisease and https://www.kaggle.com/datasets/mohitsingh1804/plantvillage.
+This project uses data from the following Kaggle datasets: https://www.kaggle.com/datasets/emmarex/plantdisease and https://www.kaggle.com/datasets/mohitsingh1804/plantvillage. Cohere documentation was also used for the chatbot: https://docs.cohere.com/cohere-documentation
